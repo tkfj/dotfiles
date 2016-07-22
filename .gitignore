@@ -8,6 +8,7 @@
 .project
 .classpath
 .settings
+.springBeans
 
 # IDEA
 .idea
@@ -20,3 +21,10 @@ Thumbs.db
 # Maven
 target
 log
+
+# Node
+node_modules
+logs
+*.log
+npm-debug.log*
+
