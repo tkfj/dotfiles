@@ -21,6 +21,7 @@ Thumbs.db
 # Maven
 target
 log
+!maven-wrapper.jar
 
 # Node
 node_modules
