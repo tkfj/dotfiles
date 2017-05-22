@@ -23,6 +23,11 @@ target
 log
 !maven-wrapper.jar
 
+# Gradle
+.gradle
+!gradle-wrapper.jar
+/build/
+
 # Node
 node_modules
 logs
